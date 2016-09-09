@@ -1,6 +1,6 @@
 /*
-@JEDIII
-*/
+ *@JEDIII
+ */
 import java.util.Scanner;
 
 public class Average {
